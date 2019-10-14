@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# ABOUT JWORLD
-
 JWorld is a JavaScript 3D kit based on CSS3 and HTML5.
 
 It can render any HTML5 elements into a 3D view and lets you control the camera and the sprites in the scene.
