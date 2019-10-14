@@ -6,4 +6,4 @@ description: JWorld Docs
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
