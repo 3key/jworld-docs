@@ -1,0 +1,9 @@
+# basic options
+title: Jworld
+author: 3key
+email: dr101@gmx.at
+description: JWorld Docs
+
+# Build settings
+markdown: kramdown
+theme: minima
